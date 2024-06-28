@@ -31,4 +31,4 @@ for(let i=0; i<= array.length;i++){
     }
 }
 console.log("Il numero massimo nell'array è: " + max);
-document.write("l'array è "+ array+". Il numero massimo nell'array è: "+ max);
+document.write("<h2>l'array è: "+ array+". Il numero massimo nell'array è: "+ max+" </h2>");
